@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Xcode
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.xcarchive
+
+# Xcode user-specific files
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+project.xcworkspace/xcuserdata/
+
+# C++ build artifacts
+*.o
+*.a
+*.out
+*.dSYM/
+build/
+Release/
+Debug/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled binaries
+posn_day*/posn_day*/posn_day*
+!posn_day*/**/*.cpp
+!posn_day*/**/*.h
